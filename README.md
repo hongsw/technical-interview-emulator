@@ -71,3 +71,7 @@ A test runner is not installed (right now). But ESLint and Prettier are checked 
 ## Licensing
 
 MIT
+
+# 사용할 모듈들
+
+https://github.com/sivaprakashDesingu/react-voice-recorder
