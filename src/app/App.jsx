@@ -13,6 +13,7 @@ function App() {
         <header className={styles['App-header']}>
           <img src={logo} className={styles['App-logo']} alt="logo" />
           <Welcome />
+          <h1>롤플레이 모의면접 프로그램 </h1>
           <p>
             <button onClick={() => setCount((count) => count + 1)}>
               count is: {count}
